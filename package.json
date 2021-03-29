@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-xlsx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Uses Xlsx package to convert excel spreadsheets to json data files",
   "main": ".eleventy.js",
   "scripts": {
