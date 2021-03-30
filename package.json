@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-xlsx",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Uses Xlsx package to convert excel spreadsheets to json data files",
   "main": ".eleventy.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/dcgoodwin2112/eleventy-plugin-xlsx.git"
   },
-  "keywords": [],
+  "keywords": [
+    "eleventy",
+    "eleventy-plugin",
+    "excel",
+    "xlsx"
+  ],
   "author": "Daniel Goodwin",
   "license": "Apache-2.0",
   "bugs": {
